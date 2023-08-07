@@ -1,3 +1,9 @@
-pyrogram
-Tgcrypto
- 
+aiofiles 
+Pillow 
+humanize 
+hachoir 
+motor 
+pyrogram==2.0.35 
+TgCrypto 
+dnspython 
+aiohttp
